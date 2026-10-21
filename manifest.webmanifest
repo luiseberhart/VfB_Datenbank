@@ -1,0 +1,1 @@
+{"name": "VfB Datenbank", "short_name": "VfB Datenbank", "id": "./index.html", "start_url": "./index.html", "scope": "./", "display": "standalone", "background_color": "#f1f2f4", "theme_color": "#b5162c", "description": "Deine Spiele, Stadien und Erinnerungen", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]}
